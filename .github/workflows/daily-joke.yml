@@ -2,7 +2,7 @@ name: generate-daily-joke
 run-name: Generating Daily Joke
 on: 
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/2 * * * *"
 jobs:
   adds-contributor:
     runs-on: ubuntu-latest
@@ -12,5 +12,12 @@ jobs:
         with:
           node-version: '14'
       - run: npm install
-      - run: |
+      - name: Edit README.md
+        run: |
           npm start
+      - name: Commit README.md
+        run: |
+          git config --global user.name 'VulcanWM'
+          git config --global user.email 'VulcanWM@users.noreply.github.com'
+          git commit -am "Generated Daily Joke"
+          git push
