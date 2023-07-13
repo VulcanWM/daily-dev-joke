@@ -7,7 +7,6 @@ axios.get("https://backend-omega-seven.vercel.app/api/getjoke")
   const question = data[0].question;
   const punchline = data[0].punchline;
 
-  
   var text = `
 # Daily Dev Joke
 
