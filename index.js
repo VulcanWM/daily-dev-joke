@@ -6,8 +6,6 @@ axios.get("https://backend-omega-seven.vercel.app/api/getjoke")
     const data = res.data;
     const question = data[0].question;
     const punchline = data[0].punchline;
-    console.log(question)
-    console.log(punchline)
  
     fs.readFile('README.md', 'utf-8', function(err, data) {
         if (err) throw err;
