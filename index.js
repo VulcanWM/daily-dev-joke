@@ -1,5 +1,5 @@
 const axios = require('axios');
-var fs = require('fs');
+const fs = require('fs');
 
 axios.get("https://backend-omega-seven.vercel.app/api/getjoke")
   .then(res => {
