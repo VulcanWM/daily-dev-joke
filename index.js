@@ -1,4 +1,5 @@
 const axios = require('axios');
+var fs = require('fs');
 
 axios.get("https://backend-omega-seven.vercel.app/api/getjoke")
   .then(res => {
@@ -7,7 +8,6 @@ axios.get("https://backend-omega-seven.vercel.app/api/getjoke")
     const punchline = data[0].punchline;
     console.log(question)
     console.log(punchline)
-    var fs = require('fs');
  
     fs.readFile('README.md', 'utf-8', function(err, data) {
         if (err) throw err;
