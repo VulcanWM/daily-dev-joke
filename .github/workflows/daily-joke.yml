@@ -2,7 +2,7 @@ name: generate-daily-joke
 run-name: Generating Daily Joke
 on: 
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "0 0 * * *"
 jobs:
   adds-contributor:
     runs-on: ubuntu-latest
