@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Exercise for others - 160 calories burned.**
-*Exercise for coders - 60 bugs fixed.*
+**A SQL query goes into a bar, walks up to two tables and asks:**
+*"Can I join you?"*
