@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do Front-End Developers eat lunch alone?**
-*Because, they don't know how to join tables.*
+**How do you know your baby is going to be a developer when they grow up?**
+*Their first word is Hello World.*
