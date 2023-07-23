@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are keyboards always working so hard?**
-*Cause they have two shifts.*
+**What's IKEA's favorite programming language?**
+*Assembly*
