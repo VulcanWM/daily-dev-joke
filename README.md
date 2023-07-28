@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do Java programmers wear glasses?**
-*Because they don't C#.*
+**Why are keyboards always working so hard?**
+*Cause they have two shifts.*
