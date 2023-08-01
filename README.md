@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why does keyboard sleep?**
-*Because it has two shifts.*
+**Why don't bachelors like Git?**
+*Because they are afraid to commit.*
