@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**There are 10 types of people in this world, those who understand binary and those who don't.**
-*:)*
+**Why did the functions stop calling each other?**
+*Because they had constant arguments.*
