@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Asynchronous JavaScript is amazing.**
-*I Promise you, aWait and See*
+**Why did the computer keep sneezing?**
+*It has a virus.*
