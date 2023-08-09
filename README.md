@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is the hardest part in programming?**
-*Naming variables.*
+**What did spider do on the computer?**
+*Made a website.*
