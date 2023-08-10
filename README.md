@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What did spider do on the computer?**
-*Made a website.*
+**Who won the debate for the best name for loop variable?**
+*'i' won.*
