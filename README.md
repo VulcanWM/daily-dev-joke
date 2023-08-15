@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why doesn't Hollywood make more Big Data movies?**
-*NoSQL*
+**Why are machine learning models so fit?**
+*Because they do weight training.*
