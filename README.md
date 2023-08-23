@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Algorithm (noun)**
-*Word used by programmers when.. they do not want to explain what they did.*
+**Why aren't cryptocurrency engineers allowed to vote?**
+*Because they are miners.*
