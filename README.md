@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why aren't cryptocurrency engineers allowed to vote?**
-*Because they are miners.*
+**What did spider do on the computer?**
+*Made a website.*
