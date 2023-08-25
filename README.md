@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What did spider do on the computer?**
-*Made a website.*
+**Why did the functions stop calling each other?**
+*Because they had constant arguments.*
