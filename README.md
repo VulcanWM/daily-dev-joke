@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the functions stop calling each other?**
-*Because they had constant arguments.*
+**Algorithm (noun)**
+*Word used by programmers when.. they do not want to explain what they did.*
