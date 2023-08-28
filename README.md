@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Asynchronous JavaScript is amazing.**
-*I Promise you, aWait and See*
+**What do you call a doctor who fixes websites?**
+*A URLogist*
