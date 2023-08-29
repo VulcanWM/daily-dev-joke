@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What do you call a doctor who fixes websites?**
-*A URLogist*
+**What accomodations did the JavaScript developer request at the hotel?**
+*A room with a Vue.*
