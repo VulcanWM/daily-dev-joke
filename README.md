@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do all HTML emails get blocked?**
-*Because they are all spans.*
+**What did spider do on the computer?**
+*Made a website.*
