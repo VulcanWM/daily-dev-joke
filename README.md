@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do developers use mechanical keyboards?**
-*To strongly type their code.*
+**How do you know your baby is going to be a developer when they grow up?**
+*Their first word is Hello World.*
