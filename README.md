@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are keyboards always working so hard?**
-*Cause they have two shifts.*
+**Do you know why GraphQL is so fast?**
+*Because it can't REST.*
