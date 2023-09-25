@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do C# and Java developers keep breaking their keyboards?**
-*Because they use a strongly typed language.*
+**Waitress: Do you have any questions about the menu?**
+*Dev: What kind of font it is?*
