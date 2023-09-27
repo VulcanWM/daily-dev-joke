@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the document store go out of business?**
-*It has NoSQL.*
+**Why was nobody given food at the developer conference?**
+*It was a serverless function.*
