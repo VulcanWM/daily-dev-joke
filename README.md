@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why doesn't Hollywood make more Big Data movies?**
-*NoSQL*
+**How does a programmer open a jar?**
+*They install Java.*
