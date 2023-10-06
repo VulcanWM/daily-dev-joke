@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Programmer (noun)**
-*A machine that turns coffee into code.*
+**Why did the developer go broke?**
+*Because they used up all their cache.*
