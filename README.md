@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What does a baby computer call his father?**
-*Data*
+**Why did the developer go broke?**
+*Because they used up all their cache.*
