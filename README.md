@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What does a baby computer call his father?**
-*Data*
+**How do you comfort a JavaScript bug?**
+*You console it.*
