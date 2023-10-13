@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How do you comfort a JavaScript bug?**
-*You console it.*
+**Why couldn't web developer find their room in a hotel?**
+*Because their room number was 404.*
