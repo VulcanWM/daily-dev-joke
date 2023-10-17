@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How did your dog eat your coding assignment?**
-*It took him a couple bytes.*
+**How do you stop a web developer stealing your stuff?**
+*Write 403 on it.*
