@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What are clouds made of?**
-*Mostly linux servers.*
+**Why are machine learning models so fit?**
+*Because they do weight training.*
