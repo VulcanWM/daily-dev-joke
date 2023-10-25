@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are keyboards always working so hard?**
-*Cause they have two shifts.*
+**Why do assembly level programmers need to know how to swim?**
+*Because they work below C level.*
