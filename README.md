@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What are clouds made of?**
-*Mostly linux servers.*
+**What did the Class say in court when put on trial?**
+*I strongly object!*
