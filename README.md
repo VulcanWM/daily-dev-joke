@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What did the Class say in court when put on trial?**
-*I strongly object!*
+**What accomodations did the JavaScript developer request at the hotel?**
+*A room with a Vue.*
