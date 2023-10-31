@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why doesn't Hollywood make more Big Data movies?**
-*NoSQL*
+**Which programming language is the shortest?**
+*HTML, because it doesn't have a neck between head and body.*
