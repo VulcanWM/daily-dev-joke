@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do C# and Java developers keep breaking their keyboards?**
-*Because they use a strongly typed language.*
+**What did the proud React component say to its child?**
+*I've got to give you props.*
