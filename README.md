@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What accomodations did the JavaScript developer request at the hotel?**
-*A room with a Vue.*
+**Waitress: Do you have any questions about the menu?**
+*Dev: What kind of font it is?*
