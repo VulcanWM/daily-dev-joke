@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do Front-End Developers eat lunch alone?**
-*Because, they don't know how to join tables.*
+**Why was nobody given food at the developer conference?**
+*It was a serverless function.*
