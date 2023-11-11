@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why was nobody given food at the developer conference?**
-*It was a serverless function.*
+**There are 10 types of people in this world, those who understand binary and those who don't.**
+*:)*
