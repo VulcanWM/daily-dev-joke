@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Programmer (noun)**
-*A machine that turns coffee into code.*
+**Who won the debate for the best name for loop variable?**
+*'i' won.*
