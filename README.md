@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Who won the debate for the best name for loop variable?**
-*'i' won.*
+**Why do developers use mechanical keyboards?**
+*To strongly type their code.*
