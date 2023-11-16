@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do developers use mechanical keyboards?**
-*To strongly type their code.*
+**Why was nobody given food at the developer conference?**
+*It was a serverless function.*
