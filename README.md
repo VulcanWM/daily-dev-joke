@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why was nobody given food at the developer conference?**
-*It was a serverless function.*
+**Waitress: Do you have any questions about the menu?**
+*Dev: What kind of font it is?*
