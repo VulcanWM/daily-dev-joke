@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Do you know why GraphQL is so fast?**
-*Because it can't REST.*
+**Why do all HTML emails get blocked?**
+*Because they are all spans.*
