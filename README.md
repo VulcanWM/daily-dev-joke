@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the developer go broke?**
-*Because they used up all their cache.*
+**Do you know why GraphQL is so fast?**
+*Because it can't REST.*
