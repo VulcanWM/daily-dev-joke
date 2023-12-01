@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What did the developer say to their friend who was having a bad day?**
-*Everything's going to be 200.*
+**There are 10 types of people in this world, those who understand binary and those who don't.**
+*:)*
