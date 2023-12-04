@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Programmer (noun)**
-*A machine that turns coffee into code.*
+**0 is false and 1 is true right?**
+*1*
