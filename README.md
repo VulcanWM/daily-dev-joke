@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What's IKEA's favorite programming language?**
-*Assembly*
+**Why did the functions stop calling each other?**
+*Because they had constant arguments.*
