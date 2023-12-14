@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the functions stop calling each other?**
-*Because they had constant arguments.*
+**A SQL query goes into a bar, walks up to two tables and asks:**
+*"Can I join you?"*
