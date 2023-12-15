@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**A SQL query goes into a bar, walks up to two tables and asks:**
-*"Can I join you?"*
+**How many developers does it take to change a light bulb?**
+*None. It's a hardware issue.*
