@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How do you stop a web developer stealing your stuff?**
-*Write 403 on it.*
+**Got any funny DNS jokes?**
+*Yeah, but It may take 24 hours to get it.*
