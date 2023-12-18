@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Got any funny DNS jokes?**
-*Yeah, but It may take 24 hours to get it.*
+**What did the fruit basket say to the developer?**
+*I hope you're ready for some pear programming.*
