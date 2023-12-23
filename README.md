@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**When do front end developers go out to eat?**
-*On their lunch &lt;br&gt;.*
+**What did the computer do at lunchtime?**
+*Had a byte.*
