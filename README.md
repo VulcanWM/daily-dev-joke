@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Where do programmer dad's store their jokes?**
-*In a dad-a-base.*
+**What did the Python say when they came out of the shell?**
+*Print("Hello World!")*
