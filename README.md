@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What did the Python say when they came out of the shell?**
-*Print("Hello World!")*
+**What's the second movie about a database engineer called?**
+*The SQL.*
