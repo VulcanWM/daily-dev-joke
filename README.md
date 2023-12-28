@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What's the second movie about a database engineer called?**
-*The SQL.*
+**What did the fruit basket say to the developer?**
+*I hope you're ready for some pear programming.*
