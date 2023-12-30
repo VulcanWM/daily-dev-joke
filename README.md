@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Are computers dangerous?**
-*Nah, they don't byte.*
+**Algorithm (noun)**
+*Word used by programmers when.. they do not want to explain what they did.*
