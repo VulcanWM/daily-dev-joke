@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Do you know why GraphQL is so fast?**
-*Because it can't REST.*
+**What does a baby computer call his father?**
+*Data*
