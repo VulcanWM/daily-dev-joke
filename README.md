@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are machine learning models so fit?**
-*Because they do weight training.*
+**What are your plans for the weekend?**
+*I know Front-end and Back-end, what is week-end?*
