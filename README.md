@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What's IKEA's favorite programming language?**
-*Assembly*
+**Programmer (noun)**
+*A machine that turns coffee into code.*
