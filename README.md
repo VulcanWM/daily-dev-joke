@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What do you call a doctor who fixes websites?**
-*A URLogist*
+**Why was the computer freezing?**
+*It left its Windows open.*
