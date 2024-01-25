@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-axios.get("https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit")
+axios.get("https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=twopart")
 .then(res => {
   const data = res.data;
   const question = data[0].setup;
