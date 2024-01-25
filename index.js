@@ -1,11 +1,11 @@
 const axios = require('axios');
 const fs = require('fs');
 
-axios.get("https://backend-omega-seven.vercel.app/api/getjoke")
+axios.get("https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit")
 .then(res => {
   const data = res.data;
-  const question = data[0].question;
-  const punchline = data[0].punchline;
+  const question = data[0].setup;
+  const punchline = data[0].delivery;
 
   var text = `
 # Daily Dev Joke
