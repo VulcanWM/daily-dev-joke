@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers wear glasses?**
-*Because they need to C#*
+**Why are Assembly programmers always soaking wet?**
+*They work below C-level.*
