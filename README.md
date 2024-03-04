@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What do you call a developer who doesn't comment code?**
-*A developer.*
+**How many programmers does it take to screw in a light bulb?**
+*None. It's a hardware problem.*
