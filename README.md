@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why is Linux safe?**
-*Hackers peak through Windows only.*
+**So what's a set of predefined steps the government might take to preserve the environment?**
+*An Al-Gore-ithm.*
