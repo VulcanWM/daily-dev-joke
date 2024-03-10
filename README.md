@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers prefer using the dark mode?**
-*Because light attracts bugs.*
+**Why is 6 afraid of 7 in hexadecimal Canada?**
+*Because 7 8 9 A?*
