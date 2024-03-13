@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do Java programmers hate communism?**
-*They don't want to live in a classless society.*
+**How do you generate a random string?**
+*Put a Windows user in front of Vim and tell them to exit.*
