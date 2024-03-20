@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why is Linux safe?**
-*Hackers peak through Windows only.*
+**Why did the Python programmer not respond to the foreign mails he got?**
+*Because his interpreter was busy collecting garbage.*
