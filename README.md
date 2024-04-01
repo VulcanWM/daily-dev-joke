@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What's the object-oriented way to become wealthy?**
-*Inheritance.*
+**Why was the JavaScript developer sad?**
+*Because they didn't Node how to Express themself!*
