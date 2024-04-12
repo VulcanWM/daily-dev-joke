@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers prefer using the dark mode?**
-*Because light attracts bugs.*
+**What is a dying programmer's last program?**
+*Goodbye, world!*
