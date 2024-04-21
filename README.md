@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**why do python programmers wear glasses?**
-*Because they can't C.*
+**Why was the JavaScript developer sad?**
+*Because they didn't Node how to Express themself!*
