@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**.NET developers are picky when it comes to food.**
-*They only like chicken NuGet.*
+**Why did the JavaScript heap close shop?**
+*It ran out of memory.*
