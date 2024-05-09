@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**So what's a set of predefined steps the government might take to preserve the environment?**
-*An Al-Gore-ithm.*
+**Why did the functional programmer get thrown out of school?**
+*Because he refused to take classes.*
