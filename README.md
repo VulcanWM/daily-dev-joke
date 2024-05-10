@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the functional programmer get thrown out of school?**
-*Because he refused to take classes.*
+**What do you call a developer who doesn't comment code?**
+*A developer.*
