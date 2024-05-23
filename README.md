@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What are bits?**
-*Tiny things left when you drop your computer down the stairs.*
+**Why did the web developer walk out of a resturant in disgust?**
+*The seating was laid out in tables.*
