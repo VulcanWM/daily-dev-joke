@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How can you tell an extroverted programmer?**
-*He looks at YOUR shoes when he's talking.*
+**What do you call a group of 8 Hobbits?**
+*A Hobbyte.*
