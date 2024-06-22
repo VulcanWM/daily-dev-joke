@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the programmer quit his job?**
-*Because he didn't get arrays.*
+**How can you tell an extroverted programmer?**
+*He looks at YOUR shoes when he's talking.*
