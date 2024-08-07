@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What are bits?**
-*Tiny things left when you drop your computer down the stairs.*
+**Why did the Python programmer not respond to the foreign mails he got?**
+*Because his interpreter was busy collecting garbage.*
