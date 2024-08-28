@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How did the programmer die in the shower?**
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+**Why did the Python data scientist get arrested at customs?**
+*She was caught trying to import pandas!*
