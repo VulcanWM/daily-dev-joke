@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What do you call a developer who doesn't comment code?**
-*A developer.*
+**What are bits?**
+*Tiny things left when you drop your computer down the stairs.*
