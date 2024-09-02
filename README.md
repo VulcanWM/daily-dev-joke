@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Hey, wanna hear a joke?**
-*Parsing HTML with regex.*
+**Why did the web developer walk out of a resturant in disgust?**
+*The seating was laid out in tables.*
