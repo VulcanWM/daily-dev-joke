@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is the best prefix for global variables?**
-*//*
+**Hey, wanna hear a joke?**
+*Parsing HTML with regex.*
