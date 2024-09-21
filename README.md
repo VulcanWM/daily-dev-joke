@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why does no one like SQLrillex?**
-*He keeps dropping the database.*
+**How did the programmer die in the shower?**
+*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
