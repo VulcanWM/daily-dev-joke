@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How many programmers does it take to screw in a light bulb?**
-*None. It's a hardware problem.*
+**Why did the programmer jump on the table?**
+*Because debug was on his screen.*
