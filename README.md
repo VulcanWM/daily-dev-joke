@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Hey baby I wish your name was asynchronous...**
-*... so you'd give me a callback.*
+**Why did the functional programmer get thrown out of school?**
+*Because he refused to take classes.*
