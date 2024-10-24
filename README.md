@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**why do python programmers wear glasses?**
-*Because they can't C.*
+**What do you call a developer who doesn't comment code?**
+*A developer.*
