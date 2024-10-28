@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**why do python programmers wear glasses?**
-*Because they can't C.*
+**Why does no one like SQLrillex?**
+*He keeps dropping the database.*
