@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How did the programmer die in the shower?**
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+**Why do programmers wear glasses?**
+*Because they need to C#*
