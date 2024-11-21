@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What do you call a group of 8 Hobbits?**
-*A Hobbyte.*
+**How do you generate a random string?**
+*Put a Windows user in front of Vim and tell them to exit.*
