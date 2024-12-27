@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What are bits?**
-*Tiny things left when you drop your computer down the stairs.*
+**Why does no one like SQLrillex?**
+*He keeps dropping the database.*
