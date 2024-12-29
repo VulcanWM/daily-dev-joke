@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the functional programmer get thrown out of school?**
-*Because he refused to take classes.*
+**Why did the Python data scientist get arrested at customs?**
+*She was caught trying to import pandas!*
