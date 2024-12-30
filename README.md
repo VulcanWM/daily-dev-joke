@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the Python data scientist get arrested at customs?**
-*She was caught trying to import pandas!*
+**Hey baby I wish your name was asynchronous...**
+*... so you'd give me a callback.*
