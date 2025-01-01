@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are Assembly programmers always soaking wet?**
-*They work below C-level.*
+**Why was the JavaScript developer sad?**
+*Because they didn't Node how to Express themself!*
