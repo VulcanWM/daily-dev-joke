@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What do you call a group of 8 Hobbits?**
-*A Hobbyte.*
+**What are bits?**
+*Tiny things left when you drop your computer down the stairs.*
