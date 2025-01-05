@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What are bits?**
-*Tiny things left when you drop your computer down the stairs.*
+**How did the programmer die in the shower?**
+*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
