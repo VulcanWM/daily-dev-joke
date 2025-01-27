@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why is Linux safe?**
-*Hackers peak through Windows only.*
+**How did the programmer die in the shower?**
+*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
