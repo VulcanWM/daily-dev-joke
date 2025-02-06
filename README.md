@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**.NET developers are picky when it comes to food.**
-*They only like chicken NuGet.*
+**How do you generate a random string?**
+*Put a Windows user in front of Vim and tell them to exit.*
