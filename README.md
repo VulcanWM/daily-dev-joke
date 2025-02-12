@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**.NET developers are picky when it comes to food.**
-*They only like chicken NuGet.*
+**Why did the programmer quit his job?**
+*Because he didn't get arrays.*
