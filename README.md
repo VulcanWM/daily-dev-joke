@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**why do python programmers wear glasses?**
-*Because they can't C.*
+**How do you generate a random string?**
+*Put a Windows user in front of Vim and tell them to exit.*
