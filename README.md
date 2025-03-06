@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**So what's a set of predefined steps the government might take to preserve the environment?**
-*An Al-Gore-ithm.*
+**Why did the Python programmer not respond to the foreign mails he got?**
+*Because his interpreter was busy collecting garbage.*
