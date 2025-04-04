@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers prefer using the dark mode?**
-*Because light attracts bugs.*
+**How many programmers does it take to screw in a light bulb?**
+*None. It's a hardware problem.*
