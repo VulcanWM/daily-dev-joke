@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the programmer jump on the table?**
-*Because debug was on his screen.*
+**What are bits?**
+*Tiny things left when you drop your computer down the stairs.*
