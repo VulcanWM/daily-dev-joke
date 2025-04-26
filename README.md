@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers confuse Halloween and Christmas?**
-*Because Oct 31 = Dec 25*
+**How did you make your friend rage?**
+*I implemented a greek question mark in his JavaScript code.*
