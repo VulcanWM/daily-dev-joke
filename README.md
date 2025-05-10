@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are modern programming languages so materialistic?**
-*Because they are object-oriented.*
+**Hey, wanna hear a joke?**
+*Parsing HTML with regex.*
