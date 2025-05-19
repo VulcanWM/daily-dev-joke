@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**.NET developers are picky when it comes to food.**
-*They only like chicken NuGet.*
+**Hey baby I wish your name was asynchronous...**
+*... so you'd give me a callback.*
