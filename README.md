@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**.NET developers are picky when it comes to food.**
-*They only like chicken NuGet.*
+**What do you call a group of 8 Hobbits?**
+*A Hobbyte.*
