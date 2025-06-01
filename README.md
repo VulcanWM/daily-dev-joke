@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why does no one like SQLrillex?**
-*He keeps dropping the database.*
+**Why are Assembly programmers always soaking wet?**
+*They work below C-level.*
