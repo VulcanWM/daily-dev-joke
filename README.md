@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are Assembly programmers always soaking wet?**
-*They work below C-level.*
+**What do you call a developer who doesn't comment code?**
+*A developer.*
