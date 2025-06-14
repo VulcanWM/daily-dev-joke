@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why was the JavaScript developer sad?**
-*Because they didn't Node how to Express themself!*
+**Why did the database administrator leave his wife?**
+*She had one-to-many relationships.*
