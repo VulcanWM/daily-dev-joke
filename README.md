@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do they call it hyper terminal?**
-*Too much Java.*
+**What do you call a developer who doesn't comment code?**
+*A developer.*
