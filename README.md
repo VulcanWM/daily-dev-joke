@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What do you call a developer who doesn't comment code?**
-*A developer.*
+**Why are modern programming languages so materialistic?**
+*Because they are object-oriented.*
