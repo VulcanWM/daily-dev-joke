@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is a dying programmer's last program?**
-*Goodbye, world!*
+**Hey baby I wish your name was asynchronous...**
+*... so you'd give me a callback.*
