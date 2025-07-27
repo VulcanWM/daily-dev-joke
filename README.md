@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers confuse Halloween and Christmas?**
-*Because Oct 31 = Dec 25*
+**Why did the programmer quit his job?**
+*Because he didn't get arrays.*
