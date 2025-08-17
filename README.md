@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers prefer using the dark mode?**
-*Because light attracts bugs.*
+**Why did the Python programmer not respond to the foreign mails he got?**
+*Because his interpreter was busy collecting garbage.*
