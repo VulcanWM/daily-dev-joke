@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is the most used language in programming?**
-*Profanity.*
+**So what's a set of predefined steps the government might take to preserve the environment?**
+*An Al-Gore-ithm.*
