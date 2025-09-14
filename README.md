@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How do you generate a random string?**
-*Put a Windows user in front of Vim and tell them to exit.*
+**Why is 6 afraid of 7 in hexadecimal Canada?**
+*Because 7 8 9 A?*
