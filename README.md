@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers prefer using the dark mode?**
-*Because light attracts bugs.*
+**Hey baby I wish your name was asynchronous...**
+*... so you'd give me a callback.*
