@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers wear glasses?**
-*Because they need to C#*
+**How can you tell an extroverted programmer?**
+*He looks at YOUR shoes when he's talking.*
