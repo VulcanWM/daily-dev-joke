@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the JavaScript heap close shop?**
-*It ran out of memory.*
+**What do you call a group of 8 Hobbits?**
+*A Hobbyte.*
