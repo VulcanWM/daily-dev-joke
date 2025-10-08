@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What are bits?**
-*Tiny things left when you drop your computer down the stairs.*
+**Why did the programmer quit his job?**
+*Because he didn't get arrays.*
