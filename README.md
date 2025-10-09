@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the programmer quit his job?**
-*Because he didn't get arrays.*
+**Why did the Python data scientist get arrested at customs?**
+*She was caught trying to import pandas!*
