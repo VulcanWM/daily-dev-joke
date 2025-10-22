@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How did the programmer die in the shower?**
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+**Why did the Python programmer not respond to the foreign mails he got?**
+*Because his interpreter was busy collecting garbage.*
