@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the JavaScript heap close shop?**
-*It ran out of memory.*
+**How do you generate a random string?**
+*Put a Windows user in front of Vim and tell them to exit.*
