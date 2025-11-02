@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How do you generate a random string?**
-*Put a Windows user in front of Vim and tell them to exit.*
+**Why does no one like SQLrillex?**
+*He keeps dropping the database.*
