@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the Python data scientist get arrested at customs?**
-*She was caught trying to import pandas!*
+**Why is 6 afraid of 7 in hexadecimal Canada?**
+*Because 7 8 9 A?*
