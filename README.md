@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why is 6 afraid of 7 in hexadecimal Canada?**
-*Because 7 8 9 A?*
+**Why are Assembly programmers always soaking wet?**
+*They work below C-level.*
