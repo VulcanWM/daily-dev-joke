@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why is Linux safe?**
-*Hackers peak through Windows only.*
+**Hey baby I wish your name was asynchronous...**
+*... so you'd give me a callback.*
