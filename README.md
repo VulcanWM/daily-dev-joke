@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What do you call a developer who doesn't comment code?**
-*A developer.*
+**Why do Java programmers hate communism?**
+*They don't want to live in a classless society.*
