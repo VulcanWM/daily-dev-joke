@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are modern programming languages so materialistic?**
-*Because they are object-oriented.*
+**why do python programmers wear glasses?**
+*Because they can't C.*
