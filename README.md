@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why is Linux safe?**
-*Hackers peak through Windows only.*
+**.NET developers are picky when it comes to food.**
+*They only like chicken NuGet.*
