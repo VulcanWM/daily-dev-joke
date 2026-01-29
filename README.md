@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the JavaScript heap close shop?**
-*It ran out of memory.*
+**How many programmers does it take to screw in a light bulb?**
+*None. It's a hardware problem.*
