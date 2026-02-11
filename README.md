@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What do you call a developer who doesn't comment code?**
-*A developer.*
+**So what's a set of predefined steps the government might take to preserve the environment?**
+*An Al-Gore-ithm.*
