@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What's the object-oriented way to become wealthy?**
-*Inheritance.*
+**Why did the Python data scientist get arrested at customs?**
+*She was caught trying to import pandas!*
