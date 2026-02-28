@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the programmer quit his job?**
-*Because he didn't get arrays.*
+**How many programmers does it take to screw in a light bulb?**
+*None. It's a hardware problem.*
