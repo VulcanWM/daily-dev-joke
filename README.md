@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**why do python programmers wear glasses?**
-*Because they can't C.*
+**Why do programmers confuse Halloween and Christmas?**
+*Because Oct 31 = Dec 25*
