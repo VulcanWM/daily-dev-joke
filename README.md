@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is the best prefix for global variables?**
-*//*
+**How did you make your friend rage?**
+*I implemented a greek question mark in his JavaScript code.*
