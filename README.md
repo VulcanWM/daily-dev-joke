@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are modern programming languages so materialistic?**
-*Because they are object-oriented.*
+**How many programmers does it take to screw in a light bulb?**
+*None. It's a hardware problem.*
