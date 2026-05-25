@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is the most used language in programming?**
-*Profanity.*
+**How did the programmer die in the shower?**
+*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
