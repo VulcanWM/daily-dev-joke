@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is a dying programmer's last program?**
-*Goodbye, world!*
+**How many programmers does it take to screw in a light bulb?**
+*None. It's a hardware problem.*
