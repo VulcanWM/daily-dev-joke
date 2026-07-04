@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is the most used language in programming?**
-*Profanity.*
+**Why are Assembly programmers always soaking wet?**
+*They work below C-level.*
