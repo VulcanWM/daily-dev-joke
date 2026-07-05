@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are Assembly programmers always soaking wet?**
-*They work below C-level.*
+**Why did the programmer jump on the table?**
+*Because debug was on his screen.*
