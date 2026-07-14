@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why is Linux safe?**
-*Hackers peak through Windows only.*
+**Why did the JavaScript heap close shop?**
+*It ran out of memory.*
