@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is the best prefix for global variables?**
-*//*
+**Why did the programmer quit his job?**
+*Because he didn't get arrays.*
