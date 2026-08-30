@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**So what's a set of predefined steps the government might take to preserve the environment?**
-*An Al-Gore-ithm.*
+**Why did the web developer walk out of a resturant in disgust?**
+*The seating was laid out in tables.*
