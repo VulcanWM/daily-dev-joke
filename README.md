@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why are modern programming languages so materialistic?**
-*Because they are object-oriented.*
+**Why was the JavaScript developer sad?**
+*Because they didn't Node how to Express themself!*
