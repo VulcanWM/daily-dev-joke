@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How did the programmer die in the shower?**
-*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+**Hey baby I wish your name was asynchronous...**
+*... so you'd give me a callback.*
