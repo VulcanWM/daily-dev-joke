@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the programmer jump on the table?**
-*Because debug was on his screen.*
+**Why did the database administrator leave his wife?**
+*She had one-to-many relationships.*
