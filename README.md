@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why was the JavaScript developer sad?**
-*Because they didn't Node how to Express themself!*
+**How many programmers does it take to screw in a light bulb?**
+*None. It's a hardware problem.*
