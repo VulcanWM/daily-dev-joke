@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the Python data scientist get arrested at customs?**
-*She was caught trying to import pandas!*
+**So what's a set of predefined steps the government might take to preserve the environment?**
+*An Al-Gore-ithm.*
