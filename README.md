@@ -3,5 +3,5 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How did you make your friend rage?**
-*I implemented a greek question mark in his JavaScript code.*
+**Why are Assembly programmers always soaking wet?**
+*They work below C-level.*
